@@ -1,0 +1,90 @@
+2024-10-18 15:29:12,712 : INFO : test_e2e : 
+ i'm in shop
+
+2024-10-18 15:29:12,718 : INFO : getCards : im in getcards 
+ I found 4 cards with titles: 
+
+2024-10-18 15:29:12,755 : INFO : getCards : iphone X
+2024-10-18 15:29:12,768 : INFO : getCards : Samsung Note 8
+2024-10-18 15:29:12,779 : INFO : getCards : Nokia Edge
+2024-10-18 15:29:12,792 : INFO : getCards : Blackberry
+2024-10-18 15:29:12,838 : INFO : test_e2e : 
+ I successfully found Blackberry
+2024-10-18 15:29:15,014 : INFO : checkCart : Checkig if the button Remove exists ... 
+
+2024-10-18 15:29:15,040 : INFO : checkCart : Checkout page is OK. You can continue
+
+2024-10-18 15:29:20,813 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-18 15:34:46,849 : INFO : test_e2e : 
+ i'm in shop
+
+2024-10-18 15:34:46,865 : INFO : getCards : im in getcards 
+ I found 4 cards with titles: 
+
+2024-10-18 15:34:46,925 : INFO : getCards : iphone X
+2024-10-18 15:34:46,956 : INFO : getCards : Samsung Note 8
+2024-10-18 15:34:46,972 : INFO : getCards : Nokia Edge
+2024-10-18 15:34:46,987 : INFO : getCards : Blackberry
+2024-10-18 15:34:47,046 : INFO : test_e2e : 
+ I successfully found Blackberry
+2024-10-18 15:34:49,221 : INFO : checkCart : Checkig if the button Remove exists ... 
+
+2024-10-18 15:34:49,236 : INFO : checkCart : Checkout page is OK. You can continue
+
+2024-10-18 15:34:54,675 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-21 11:45:54,509 : INFO : test_e2e : 
+ i'm in shop
+
+2024-10-21 11:45:54,530 : INFO : getCards : im in getcards 
+ I found 4 cards with titles: 
+
+2024-10-21 11:45:54,566 : INFO : getCards : iphone X
+2024-10-21 11:45:54,586 : INFO : getCards : Samsung Note 8
+2024-10-21 11:45:54,605 : INFO : getCards : Nokia Edge
+2024-10-21 11:45:54,617 : INFO : getCards : Blackberry
+2024-10-21 11:45:54,670 : INFO : test_e2e : 
+ I successfully found Blackberry
+2024-10-21 11:45:56,794 : INFO : checkCart : Checkig if the button Remove exists ... 
+
+2024-10-21 11:45:56,810 : INFO : checkCart : Checkout page is OK. You can continue
+
+2024-10-21 11:46:02,460 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-21 11:55:01,773 : INFO : test_e2e : 
+ i'm in shop
+
+2024-10-21 11:55:01,782 : INFO : getCards : im in getcards 
+ I found 4 cards with titles: 
+
+2024-10-21 11:55:01,837 : INFO : getCards : iphone X
+2024-10-21 11:55:01,848 : INFO : getCards : Samsung Note 8
+2024-10-21 11:55:01,860 : INFO : getCards : Nokia Edge
+2024-10-21 11:55:01,874 : INFO : getCards : Blackberry
+2024-10-21 11:55:01,923 : INFO : test_e2e : 
+ I successfully found Blackberry
+2024-10-21 11:55:04,033 : INFO : checkCart : Checkig if the button Remove exists ... 
+
+2024-10-21 11:55:04,050 : INFO : checkCart : Checkout page is OK. You can continue
+
+2024-10-21 11:55:09,671 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-21 12:08:15,381 : INFO : test_e2e : 
+ i'm in shop
+
+2024-10-21 12:08:15,389 : INFO : getCards : im in getcards 
+ I found 4 cards with titles: 
+
+2024-10-21 12:08:15,435 : INFO : getCards : iphone X
+2024-10-21 12:08:15,446 : INFO : getCards : Samsung Note 8
+2024-10-21 12:08:15,459 : INFO : getCards : Nokia Edge
+2024-10-21 12:08:15,469 : INFO : getCards : Blackberry
+2024-10-21 12:08:15,511 : INFO : test_e2e : 
+ I successfully found Blackberry
+2024-10-21 12:08:17,615 : INFO : checkCart : Checkig if the button Remove exists ... 
+
+2024-10-21 12:08:17,630 : INFO : checkCart : Checkout page is OK. You can continue
+
+2024-10-21 12:08:23,082 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
